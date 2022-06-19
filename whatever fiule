@@ -1,1 +1,2 @@
-print("whatever")
+whatever = 0
+print(whatever)
